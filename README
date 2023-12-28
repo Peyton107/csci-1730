@@ -1,0 +1,7 @@
+To compile use make
+To run use ./fifteen then space 3, 4, 5, 6, 7, or 8
+
+1. The framework also allows 5x5, 6x6, 7x7, and 8x8.
+2. A 2D array is used to represent the game board.
+3. void greet(void) is used to greet the player.
+4. I need to implement void init(void), int move(int tile), void draw(void), and int won(void.
